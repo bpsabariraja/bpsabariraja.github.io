@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Retouch Print in Java"
-date: 2016-05-08 20:34:26
+date: 2016-06-21
 image: '/assets/img/'
 description: 'Refresh your basics in Java'
 main-class: 'java'
@@ -9,8 +9,8 @@ color: '#B31917'
 tags:
 - java
 categories:
-twitter_text: 'Put your twitter description here.'
-introduction: 'Put your description here.'
+twitter_text: 'Refresh your basics in Java.'
+introduction: 'Refresh your basics in Java.'
 ---
 In this post we are refreshing our mind towards core how to use the various output statements in Java. While you print a statement, there resides several transaction between the Program and the JVM(Java Virtual Machine).In Java , all are byte based streams for reading input and showing result as output.In order to understand Java I/0 , you have to know how java deals with various integers, characters,bytes and other primitive data types. Most important thing is that to analyze  transformation of data types from one to another 
 
