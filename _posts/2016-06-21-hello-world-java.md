@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Retouch Print in Java"
-date: 2016-06-21
+date: 2016-05-08 20:34:26
 image: '/assets/img/'
 description: 'Refresh your basics in Java'
-main-class: 'java'
+main-class: 'jekyll'
 color: '#B31917'
 tags:
 - java
