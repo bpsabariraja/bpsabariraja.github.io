@@ -15,7 +15,7 @@
     "jekyll",
     "js"
   ],
-  "author": "Willian Justen de Vasconcellos",
+  "author": "Sabari Raja",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-stylus": "^0.4.0",
