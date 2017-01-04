@@ -1,7 +1,7 @@
 # Site settings
 description: Your thirst for Technology ends Here
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.up2java.com"
+url: "https://www.up2java.com"
 
 # User settings
 username: Sabari Raja
