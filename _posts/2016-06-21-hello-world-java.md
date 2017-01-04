@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Retouch Print in Java"
-date: 2016-05-08 20:34:26
+date: 2016-06-21 20:34:26
 image: '/assets/img/'
 description: 'Refresh your basics in Java'
 main-class: 'misc'
