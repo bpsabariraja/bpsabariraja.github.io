@@ -639,7 +639,7 @@ html, body {
 }
 
 .bar-header {
-	background: #000000;
+	background: #fff;
 	padding: .625rem 1.25rem;
 	box-shadow: 0 -3px 9px #000;
 	position: fixed;
